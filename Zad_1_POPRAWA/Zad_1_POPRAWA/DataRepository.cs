@@ -6,5 +6,6 @@ namespace Zad_1_POPRAWA
 {
 	class DataRepository
 	{
+		private DataContext dataContext;
 	}
 }

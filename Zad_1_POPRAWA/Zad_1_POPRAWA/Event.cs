@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zad_1_POPRAWA
 {
-	class Event
+	public class Event
 	{
 	}
 }

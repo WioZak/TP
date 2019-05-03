@@ -7,9 +7,9 @@ namespace Zad_1_POPRAWA
 {
 	public class DataContext
 	{
-		private List<Gambler> gamblers;
-		private Dictionary<string, Machine> machines;
-		private Collection<Event> events;
+		public List<Gambler> gamblers;
+		public Dictionary<string, Machine> machines;
+		public Collection<Event> events;
 
 		public DataContext()
 		{
